@@ -1,0 +1,22 @@
+# Переменные, используемые в приложении
+
+# API сообщества
+token = "vk1.a.XXqb6hOpXsIvb1kkgHSV9wz18xM9k3bQeKd2-bJp-xhDvJuGprEPWnbv_fVRaboKPZHEuVucmeZnUfipP15kTts-h6omk_LsVCI-Nl0cZdPPPG2rLNh-AUZ-Db6UH0jHQ84vmjjZ1f4cs6ttYrSTrLk95kiiezEbsiDD-Eviur-XyNI-zYbDW_yjyH8LTgXv"
+
+EXAMPLE_NUM = 0
+
+HELLO_SCENE_NUM = 1
+
+DEFAULT_SCENE_NUM = HELLO_SCENE_NUM
+
+HELLO_WAIT_SCENE = 2
+
+NOTE_SCENE_EXAMPLE_NUM = 1000
+
+ADD_NOTE_SCENE_NUM = 1001
+
+SHOW_NOTES_SCENE_NUM = 1002
+
+NOTE_WAIT_SCENE_NUM = 1003
+
+NOTE_DELETE_SCENE_NUM = 1004
